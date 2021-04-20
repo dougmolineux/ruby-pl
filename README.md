@@ -1,4 +1,8 @@
 # ruby-pl
+<img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png' width='40px' height='40px' />
+
+<img src='https://library.kissclipart.com/20181205/zaw/kissclipart-premier-league-1992-clipart-199293-fa-premier-l-d49d30556c57d022.jpg' width='40px' height='40px' />
+
 Premier League Standings in Ruby
 
 # How to Run
@@ -8,7 +12,7 @@ ruby app.rb
 ```
 
 # Screenshots
-![Alt text](/images/table.png?raw=true "Table as of 4/20/21")
+![Table as of 4/20/21](/images/table.png?raw=true "Table as of 4/20/21")
 
 # Goals
 The goal of this project is to test the capabilities and syntax of Ruby.
