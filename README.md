@@ -9,6 +9,11 @@ Run this in a terminal:
 ruby app.rb
 ```
 
+# How to run tests
+```
+bundle exec rspec
+```
+
 # Screenshots
 ![Table as of 4/20/21](/images/table.png?raw=true "Table as of 4/20/21")
 
