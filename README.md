@@ -2,7 +2,7 @@
 Premier League Standings in Ruby
 
 # Goals
-The goal of this project is to testing capabilities and syntax of Ruby.
+The goal of this project is to test the capabilities and syntax of Ruby.
 
 # How to Run
 Run this in a terminal:
