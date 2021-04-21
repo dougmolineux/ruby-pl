@@ -10,6 +10,7 @@ ruby app.rb
 ```
 
 # How to run tests
+The tests use `rspec`
 ```
 bundle exec rspec
 ```
@@ -28,3 +29,6 @@ Errors running the tests? Try to run:
 ```
 bundle install --path .bundle
 ```
+
+# Files
+app.rb - application file which generates the table
