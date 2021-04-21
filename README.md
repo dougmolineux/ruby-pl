@@ -1,5 +1,5 @@
 # ruby-pl
-<img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png' width='30px' height='30px' /><img src='https://library.kissclipart.com/20181205/zaw/kissclipart-premier-league-1992-clipart-199293-fa-premier-l-d49d30556c57d022.jpg' width='30px' height='30px' />
+<img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png' width='20px' height='20px' /><img src='https://library.kissclipart.com/20181205/zaw/kissclipart-premier-league-1992-clipart-199293-fa-premier-l-d49d30556c57d022.jpg' width='20px' height='20px' />
 
 Premier League Standings in Ruby
 
