@@ -31,7 +31,7 @@ bundle install --path .bundle
 ```
 
 # Files
-app.rb - application file which generates the table
-spec/bbc_spec.rb - test file for bbc.rb
-helpers/bbc.rb - file that makes request to bbc
-images/table.png - screenshot for readme
+- `app.rb` - application file which generates the table
+- `spec/bbc_spec.rb` - test file for bbc.rb
+- `helpers/bbc.rb` - file that makes request to bbc
+- `images/table.png` - screenshot for readme
